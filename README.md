@@ -36,7 +36,7 @@ Hi! I'm **ABU KALAM**, a passionate **MERN Stack Developer** with a strong focus
 
 ### 🤝 **Let’s Collaborate!**
 - 💌 Email me: [akwebdev69@gmail.com](mailto:akwebdev69@gmail.com)  
-- 🌐 Visit my portfolio: [Abu Kalam]((https://abukalam.netlify.app))  
+- 🌐 Visit my portfolio: [Abu Kalam](https://abukalam.netlify.app)  
 - 🔗 Connect on GitHub: [GitHub Profile](https://github.com/akweb69)  
 
 ---
