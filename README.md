@@ -2,25 +2,44 @@
   <img height="300" src="https://i.ibb.co/MPz2h7h/git-cover.png"  />
 </div>
 
-###
+## 🙋‍♂️ About Me
 
-<h1 align="left">Abu Kalam</h1>
+Hi! I'm **ABU KALAM**, a passionate **MERN Stack Developer** with a strong focus on creating dynamic, responsive, and user-friendly web applications. I love turning ideas into reality through clean, efficient, and scalable code.  
 
-###
+### 🔍 **Who am I?**
+- 🎓 **Education:** I'm currently studying in the **Electrical & Electronic Engineering (EEE)** department at **BSMRSTU (Session: 2019-2020)**.
+- 🌍 **Hometown:** Narikeli village, Joypurhat, Bangladesh.
+- 💻 **Specialization:** MERN (MongoDB, Express.js, React.js, Node.js) full-stack development.  
+- 🌟 **Core Strengths:** Building interactive, dynamic, and responsive web applications with cutting-edge technologies.  
+- 🙏 **Faith:** I'm a proud Muslim and love embracing simplicity in life.
 
-<h3 align="left">A full Stack  Web Developer (MERN) Also An Engineer (EEE)</h3>
+### 🔧 **What I Do?**
+- 🔥 I design and build **full-stack applications** using the **MERN stack**.
+- 🛠️ I create **interactive, responsive websites** using **React, Tailwind CSS, and Material UI**.
+- 📊 I build **dynamic dashboards and visualizations** with React, chart libraries, and animations.
+- 💡 I continuously learn and implement **new technologies** like **Three.js** for 3D website designs.  
 
-###
+### 🌟 **What Drives Me?**
+- 🚀 My passion for **problem-solving** and learning drives me to take on new challenges.
+- 💬 I enjoy collaborating with others to deliver **high-quality, impactful projects**.  
+- 💡 My creativity and commitment to excellence guide me in every project I take on.
 
-<h1 align="center">About me</h1>
+---
 
-###
+### ✨ **Fun Facts About Me:**
+- 🎂 Born on **November 1, 1999**.  
+- 🧔 I have a **beautiful beard** (a signature look!).
+- 🎮 I love playing **Free Fire** in my leisure time.  
+- 💕 Family means everything to me. My family is my biggest strength!  
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+---
 
-###
+### 🤝 **Let’s Collaborate!**
+- 💌 Email me: [akwebdev69@gmail.com](mailto:akwebdev69@gmail.com)  
+- 🌐 Visit my portfolio: [Visa Quest](https://visa-quest.netlify.app/)  
+- 🔗 Connect on GitHub: [GitHub Profile](https://github.com/akweb69)  
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+---
 
 ###
 
